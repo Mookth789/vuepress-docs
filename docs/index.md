@@ -20,5 +20,5 @@ features:
     details: Ui设计色彩配比多样化，组件样式可随心调整，主题可切换
   - title: 🔑 性能体验优秀
     details: 加载页面速度快，App端支持原生渲染，可支撑更流畅的用户体验
-footer: MIT Licensed | Copyright © 2021-present 前端铺子 · KevinChou
+footer: MIT Licensed | Copyright © 2023-present team.gmth · GMTH.thailand
 ---
