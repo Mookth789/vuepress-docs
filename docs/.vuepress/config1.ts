@@ -5,7 +5,7 @@
  module.exports = {
   title: 'Gmth',
   lang: 'en',
-  // base:'/proj/qdpz-docs/',
+  base:'/proj/qdpz-docs/',
   description: 'เอกสารการใช้งาน',
   head: createHead(),
   themeConfig: {
