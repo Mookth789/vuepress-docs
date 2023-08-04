@@ -8,8 +8,8 @@ altActionText: 下载源码
 altActionLink: https://gm99th.com
 
 features:
-  - title: 💡 多端打包
-    details: 快速打包交付，完美支持微信小程序、H5、Android和IOS
+  - title: 💡 frontend
+    details: เอกสารการใช้งาน frontend
   - title: ⚡️ 最新技术栈
     details: 基于Vue、uniApp、colorUi、uView等最新技术栈开发
   - title: 🛠️ 案例丰富
