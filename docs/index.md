@@ -8,8 +8,8 @@ altActionText: 下载源码
 altActionLink: https://gm99th.com
 
 features:
-  - title: 💡 frontend
-    details: เอกสารการใช้งาน frontend
+  - title: 💟 frontend
+    details: เอกสารวิธีการใช้งาน frontend 'ฝั่งแอดมิน' 'ฝั่งสมาชิก'
   - title: ⚡️ 最新技术栈
     details: 基于Vue、uniApp、colorUi、uView等最新技术栈开发
   - title: 🛠️ 案例丰富
