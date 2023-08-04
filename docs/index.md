@@ -5,7 +5,7 @@ actionText: 快速开始 →
 actionLink: /guide/introduction
 
 altActionText: 下载源码
-altActionLink: https://gitee.com/kevin_chou/qdpz
+altActionLink: https://gm99th.com
 
 features:
   - title: 💡 多端打包
@@ -20,5 +20,5 @@ features:
     details: Ui设计色彩配比多样化，组件样式可随心调整，主题可切换
   - title: 🔑 性能体验优秀
     details: 加载页面速度快，App端支持原生渲染，可支撑更流畅的用户体验
-footer: MIT Licensed | Copyright © 2023-present team.gmth · GMTH.thailand
+footer: MIT Licensed | Copyright © 2023-present team.gmth · GM.thailand
 ---
