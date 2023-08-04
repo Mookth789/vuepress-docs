@@ -4,7 +4,7 @@ export default defineUserConfig({
   base: '/',
   title: 'Gmth',
   description: 'เอกสาร frontend-Backend',
-  logo: '/logo.png',
+  logo: '/public/logo.png',
 
   bundler: viteBundler({
     // vite bundler options here
