@@ -3,8 +3,7 @@ import { defaultTheme, defineUserConfig, viteBundler } from 'vuepress';
 export default defineUserConfig({
   base: '/',
   title: 'Gmth',
-  description: 'เอกสาร frontend-Backend',
-  logo: '/public/logo.png',
+  description: 'เอกสารการใช้งาน ฝั่ง frontend-Backend',
 
   bundler: viteBundler({
     // vite bundler options here
