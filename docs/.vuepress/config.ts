@@ -3,10 +3,10 @@
  * @type {import('vitepress').UserConfig}
  */
  module.exports = {
-  title: '前端铺子',
-  lang: 'zh-CN',
+  title: 'Gmth',
+  lang: 'en',
   // base:'/proj/qdpz-docs/',
-  description: '一个开箱即用web移动端组件',
+  description: 'เอกสารการใช้งาน',
   head: createHead(),
   themeConfig: {
     repo: 'jekip/naive-ui-admin',
@@ -34,7 +34,7 @@ function createHead() {
         content: 'vben, vitejs, vite, ant-design-vue, vue',
       },
     ],
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }],
     [
       'meta',
       {
