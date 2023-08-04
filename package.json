@@ -6,6 +6,17 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "next"
-  }
+  "vuepress": "next",
+  "prettier": "^2.3.2",
+  "vite-plugin-components": "^0.10.4",
+  "vite-plugin-icons": "^0.6.3",
+  "vite-plugin-windicss": "^1.1.1",
+  "vitepress": "^0.14.1",
+  "windicss": "^3.1.3"
+},
+"dependencies": {
+  "@iconify/json": "^1.1.362",
+  "@vueuse/core": "^5.0.3"
+}
+}
 }
